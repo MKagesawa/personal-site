@@ -1,49 +1,49 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  url: "https://masaki.live",
+  pathPrefix: "/",
+  title: "Masaki Kagesawa Personal Website",
+  subtitle: "",
+  copyright: "© 2020 All rights reserved.",
+  disqusShortname: "masaki-live.disqus.com",
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: "UA-159363451-1",
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Articles",
+      path: "/"
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: "About me",
+      path: "/pages/about"
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: "Contact",
+      path: "/pages/contacts"
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Masaki Kagesawa",
+    photo: "/photo.jpg",
+    bio: "Software Engineer, Freelancer, Indie Hacker",
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: "masakagesawa@gmail.com",
+      facebook: "",
+      telegram: "",
+      twitter: "masakikage",
+      github: "MKagesawa",
+      rss: "",
+      vkontakte: "",
+      linkedin: "mkagesawa",
+      instagram: "",
+      line: "",
+      gitlab: "",
+      weibo: "",
+      codepen: "",
+      youtube: "",
+      soundcloud: ""
     }
   }
 };
