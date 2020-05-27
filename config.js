@@ -12,24 +12,24 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "Articles",
+      label: "ブログ",
       path: "/"
     },
     {
-      label: "About me",
+      label: "プロフィール",
       path: "/pages/about"
     },
-    {
-      label: "Contact",
-      path: "/pages/contacts"
-    }
+    // {
+    //   label: "Contact",
+    //   path: "/pages/contacts"
+    // }
   ],
   author: {
-    name: "Masaki Kagesawa",
+    name: "Masaki Kagesawa 影澤正輝",
     photo: "/photo.jpg",
-    bio: "Software Engineer, Freelancer, Indie Hacker",
+    bio: "Facebookエンジニア、 海外デジタルノマド",
     contacts: {
-      email: "masakagesawa@gmail.com",
+      email: "",
       facebook: "",
       telegram: "",
       twitter: "masakikage",

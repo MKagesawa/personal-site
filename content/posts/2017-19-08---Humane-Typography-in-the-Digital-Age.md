@@ -1,80 +1,113 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: インターンシップ獲得攻略１
+date: "2020-05-27T23:58:03.284Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+slug: "get-internship-1"
+category: "Internship"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - "Internship"
+description: "大学１〜２年生編（メジャー選択、ネットワーキング、コース選び、サイドプロジェクト）
+アメリカでインターンシップをゲットするには応募のずっと前から戦略的に準備を始める必要があります。今回は私が大学１〜２年生の間に実際にやったことや注意してたことを紹介します。"
+# socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
+大学１〜２年生編（メジャー選択、ネットワーキング、コース選び、サイドプロジェクト）
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+アメリカでインターンシップをゲットするには応募のずっと前から戦略的に準備を始める必要があります。今回は私が大学１〜２年生の間に実際にやったことや注意してたことを紹介します。
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+### メジャー選択
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+アメリカで仕事するのが目標ならメジャーは学びたい内容ではなく、働きたい職種をベースに選ぶ必要があります。
 
-## The first transition
+留学生がアメリカでインターンシップするにはCPT/OPTが必要で、メジャーと関係がある仕事でないといけないので、将来に働きたい仕事に合わせて早めに決めておいた方がいいです。
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+インターンシップを実施するテック企業の多くは労働力がすぐに欲しいわけでなく、将来正社員として採用したい人を選ぶためにやってますので、OPTを確保ができない学生にはインターンシップオファーはほぼ出ないです。
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
+メジャーを何にするかまだ決まってない場合はいろいろな学部で講義を受けられる大学か、メジャーを変えやすい大学に入った方が無難です。
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+ちなみにSTEM(サイエンス、テクノロジー、エンジニアリング、数学)のメジャーはSTEM OPT Extensionという特典が付き、通常の１年より２年追加され、卒業後３年間アメリカに残って働けます。なので企業の留学生採用はSTEMが断然多いです。
 
-*The 42–Line Bible, printed by Gutenberg.*
+実はこのSTEMの定義は曖昧で、大学によってはビジネスやマーケティングメジャーなどでもSTEMに入る場合がありますので、自分の学びたい事と関係がありそうでSTEMに入るメジャーを選ぶといいです。
 
-But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
+大学選択の話ですが、院から渡米する場合コスパを高めたいなら１年のSTEMマスタープログラム入ってSTEM OPT獲得する手があります。
 
-## The digital age
+アメリカ学費が非常に高いので通常の２年プログラムと比べ半額に抑えられます。
 
-The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
+また、テック会社は実力しか気にしないので費用が高いトップの大学に行くよりは普通で安めの大学に行ってもオファーはもらえます。
 
-> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
->
-— Massimo Vignelli
+### コース選び
 
-Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
+多くの学生はAcademic Advisorの勧めるプランに沿ってコース選びをしていますが、私はそれを完全に無視して３年生の後半までCSに関係がないクラスをほぼ取らなかったです。
 
-## Loss of humanity through transitions
+インターンシップを応募した際に同期の人より多くCSと関係する知識があるとアピールできるからです。
 
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+レジュメにRelevant Courses Taken部分を加え、取ったCSコースを全部書きました。
 
-<figure>
-	<blockquote>
-		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
-		<footer>
-			<cite>— Josef Mueller-Brockmann</cite>
-		</footer>
-	</blockquote>
-</figure>
+また、エンジニアの採用はGPAをあまり気にされないのでアドバンスなクラスや多少はニッチなクラスも多く受けてました。２年生の時に通常４年生が取る機械学習とSoftware Engineeringを取ったことが２年夏のバックエンドインターンシップに繫り、３年生の時に取る人が少ないComputer NetworkingとScalabilityを取ったことが３年夏のインフラインターンシップに繋がったと私は思ってます。
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+４年生になってから普通１年生が受けるクラス（Literature, Social Scienceなど）を取りましたが、その時にはすでに内定が決まっているので受けてる講義はもうキャリアとは関係ないです。
 
-> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
->
-> — Eric Gill
+### サイドプロジェクト
 
-We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
+日本の面接では過去の経験やプロジェクト作った内容をたくさん聞かれますが、アメリカでは全く聞かれないです。
 
-![type-through-time.jpg](/media/type-through-time.jpg)
+エンジニアとの面接はすぐにコードを書く問題を出されます。
 
-*Type through 5 centuries.*
+しかしサイドプロジェクトをやって全く意味がないわけではないです。
 
-We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
+なぜなら採用の第一ステップはレジュメスクリーニングでそれをクリアしないと面接するチャンスも与えられないから。
 
-## Chasing perfection
+日本ほどサイドプロジェクトを作るのは大事ではないけどやっておいた方がいいので大学１−２年生の時に頑張っていい物を作り、３年生の時はインタービュー対策だけに集中するのを勧めます。
 
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
+アイデアはあんまり重要ではなく、どんな技術を使いレジュメにどう書く方が大事です。
 
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+作ったサービスをデプロイしてリンクをレジュメに載せとくと＋αです。
+
+### ネットワーキング
+
+TCP/IPとかじゃなくてコネ作りの方です。
+
+大学生の特典はネットワーキングをしやすい事。
+
+まだ働いてないので赤の他人にアプローチしても何か利益を計らってるとは思われにくいです。知り合いを広めることはインターンシップ獲得だけでなく長期的にキャリアの役に立ちます。
+
+私は主に以下の方法でネットワーキングしていました。
+
+先輩に声かけてアドバイスをもらう：
+
+LinkedInで自分の大学在学中の人を調べるか、大学のCareer Development Centerで行きたい会社でインターンをした人の紹介をしてもらいました。レジュメを直してもらったり、応募したい会社のreferralしてもらいました。
+
+知り合いに紹介してもらう：
+
+一番効果的で楽な方法。会って見たい人がいればまずLinkedInで2nd connection、またはFacebookにmutual friendがいないかチェックしていをます。
+
+イベント参加：
+
+Slash、PyCon、Fast Company Innovation Festival、WeWorkのM&Aパーティー、IPOパーティー、スタートアップミートアップ、US-China国際関係など興味がちょっとでもあるイベントは授業をサボってよく行ってました。学生なので一度も参加費を払った覚えはなく、違う業界の人とたくさん会うチャンスとなりました。学生参加が無料なイベントはたくさんあり、たとえ有料でも主催者にメールすれば大半の場合割引してもらえます。
+
+ハッカソン参加：
+
+大学で合計６回ハッカソン参加し、できるだけ毎回知らない人とチームを組んでました。勝って賞を取るのが目標ではなかったので、色んな人と話して友達作りしてました。ここで知り合った人が今色んなテック会社に入ってます。
+
+赤の他人に声を掛ける：
+
+一番成功率が低いが、何か共通点を見つけると会ってもらえる確率はグッと上がる。今年の２月シリコンバレーに行った時はツイッターで見てた日本人エンジニアにDMをしたら過半数の人は親切にOKをもらいました。海外にいる日本人は少ないのでお互い日本人同士という共通点が効いたと思ってます。
+
+最後に
+
+今まで努力してきたから大学に入ったら一休みしたいと思ってる人が多いですけど、大学は最後の２年より最初の２年間の方が大事です。
+
+私が大学に入ったばかりの時、同級生はよく遊んで旅行ばっかりしてたけど、周りに流されず黙々とプログラミングの勉強とイベントに行ってネットワーキングしていました。
+
+4年生になって内定が決まってからは、たくさん遊んでヨーロッパ4ヶ月旅行に行ったりしたけど、周りは就活に困ってる友達が多いです。
+
+要は楽しい事全くしない必要はないけど、物事の優先順位を変えると同じ時間と努力の投資ですごく違う結果が得られます。
+
+今日はこれくらいにしときます。
+
+次回はインターンシップ応募、インタビュー対策、インターンシップ中に注意する事などについて！
+
+【CS学生お得情報】
+
+(Github Developer Program)[https://buff.ly/2PwnWeP]を使うと3つのドメイン、educativeやDataCampなどプログラミング学習サービス、InterviewCakeインタビュー対策サイト、JetBrains IDEなど多くのツールが全て無料で使えます。大学時代はこれ本当に助かりました。講義より独学の方がインターンシップに繋がるのでこれらを活用してください。
