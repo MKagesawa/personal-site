@@ -12,7 +12,7 @@ description: "こんにちは、Masakiです。ニューヨーク大学卒業し
 # socialImage: "/media/gutenberg.jpg"
 ---
 
-こんにちは、(@masakikage)[https://twitter.com/masakikage] です。
+こんにちは、[@masakikage](https://twitter.com/masakikage) です。
 
 ニューヨーク大学卒業したばっかりで、今はFacebookロンドンでエンジニアしています。全員違う国出身で１０人ほどのチームで楽しく働いてます。
 
