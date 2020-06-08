@@ -1,6 +1,6 @@
 ---
 title: "自己紹介"
-date: "2020-05-27T23:58:03.284Z"
+date: "2020-05-27T13:57:03.284Z"
 template: "post"
 draft: false
 slug: "introduction"
