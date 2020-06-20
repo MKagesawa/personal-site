@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const siteConfig = require('./config.js');
-const postCssPlugins = require('./postcss-config.js');
+const siteConfig = require("./config.js");
+const postCssPlugins = require("./postcss-config.js");
 
 module.exports = {
   pathPrefix: siteConfig.pathPrefix,
@@ -41,6 +41,13 @@ module.exports = {
       options: {
         name: "assets",
         path: `${__dirname}/static`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint: "https://live.us10.list-manage.com/subscribe/post?u=26a008c598bc49d71826f7630&amp;id=d78edc7955", // string; add your MC list endpoint here; see instructions below
+        timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
       },
     },
     {
